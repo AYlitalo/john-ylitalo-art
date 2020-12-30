@@ -10,17 +10,17 @@
   justify-content: center;
 }
 
-  .monster-warriors {
-    background-image: url("images/cover-photos/monster-warriors.png");
-    background-position: center;
-    background-size: cover;
-  }
+    .monster-warriors {
+      background-image: url("monster-warriors.png");
+      background-position: center;
+      background-size: cover;
+    }
 
-.original-muppets {
-  background-image: url("images/cover-photos/og-muppets.png");
-  background-position: center;
-  background-size: cover;
-}
+    .original-muppets {
+      background-image: url("og-muppets.png");
+      background-position: center;
+      background-size: cover;
+    }
 
 .collection-block-link {
   color: white;
