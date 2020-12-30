@@ -11,13 +11,13 @@
 }
 
     .monster-warriors {
-      background-image: url("monster-warriors.png");
+      background-image: url("images/cover-photos/monster-warriors.png");
       background-position: center;
       background-size: cover;
     }
 
     .original-muppets {
-      background-image: url("og-muppets.png");
+      background-image: url("images/cover-photos/og-muppets.png");
       background-position: center;
       background-size: cover;
     }
