@@ -1,0 +1,57 @@
+
+/* collection pages */
+.collection-title-card {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-width: 600px;
+}
+
+  .collection-title-card-title {
+    color: #666;
+    font-size: 2rem;
+    font-weight: 500;
+  }
+
+  .collection-title-card-description {
+    font-size: 1.2rem;
+    font-weight: 300;
+  }
+
+  .collection-title-card-year {
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    color: #aaa;
+    font-weight: 500;
+  }
+
+.collection-gallery {
+
+}
+
+.list-of-collection-pieces {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.collection-piece {
+  width: 28%;
+  padding: 2.6%;
+}
+
+.collection-piece-image {
+  width: 100%;
+}
+
+.collection-piece-name {
+  font-weight: 300;
+  color: #666;
+}
+
+.section-title{
+  padding: 2.6%;
+  text-align: center;
+  font-weight: 300;
+  color: #666;
+  padding-top: 40px;
+}

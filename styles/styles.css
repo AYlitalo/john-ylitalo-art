@@ -1,0 +1,41 @@
+
+html {
+  background-color: #eee;
+}
+
+body {
+  color: #888;
+  padding: 40px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: #666;
+  text-decoration: none;
+  font-weight: 400;
+}
+
+.logo a {
+  color: #666;
+  text-decoration: none;
+  font-weight: 400;
+  transition: color 0.3s ease-in-out;
+}
+
+
+.logo a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.navigation a{
+  padding-left: 10px;
+    color: #666;
+    text-decoration: none;
+}
